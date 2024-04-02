@@ -11,7 +11,7 @@
  o3ssh is open source, so it may be freely distributed, modified and used.
  ********************************************************************************
  
- Englisch: 
+ English: 
  
  o3ssh is a program to establish a connection to a Linux computer or server via SSH. Libraries used: Paramiko, Subprocess, Sys, and Time.
  o3ssh is open source, so it may be freely distributed, modified and used.
